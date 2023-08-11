@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "130547744249",
+    "project_id": "cockteleriafire",
+    "storage_bucket": "cockteleriafire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130547744249:android:036d37ea10b5b2451a1128",
+        "android_client_info": {
+          "package_name": "com.jjmf.android.cockteleriaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130547744249-d4i5f5du9insocc66h7rovc2vvbv85kc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jjmf.android.cockteleriaapp",
+            "certificate_hash": "d2f6c98ce0fca49c2ebb9f266b64d63cad71149c"
+          }
+        },
+        {
+          "client_id": "130547744249-iq3skl7jg9jpasbsnf4qsi0ittufbqd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFujXYXM4gxMIHU8I3RyGed7o8YjZpaLE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130547744249-iq3skl7jg9jpasbsnf4qsi0ittufbqd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
